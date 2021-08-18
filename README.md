@@ -9,6 +9,6 @@
  
 <div> 
  
-  ![Snake animation](https://github.com/devgabize/devgabize/blob/main/.github/workflows/main.yml)
+  ![Snake animation]()
  
 </div>
